@@ -1,0 +1,7 @@
+Assignment-3 : Potential field method to find a path from a start point to a goal point in a 2D workspace with obstacles.
+1. Generate a rectangular workspace with three or more obstacles or a room with walls and passage ways (doors). 
+2. Mark the start point and the goal point in the workspace.
+3. Define the potential field functions for attractive and repulsive fields.
+4. Generate feasible paths for different values of the constants in the attractive and repulsive fields. Which is the best path.
+5. Submit the full program and results showing points 1-4. Results should show several figures (4-5) that show the work space with obstacles with start and goal point. Final paths from initial point to goal points.
+6. One result should show failed cases , with suitable object position or shapes. Explain why it is failing.
