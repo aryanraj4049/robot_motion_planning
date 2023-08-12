@@ -13,6 +13,13 @@ This project was divided among three assigment:-
 
 3) Potential field method to find a path from a start point to a goal point in a 2D workspace with obstacles:- Generate a rectangular workspace with three or more obstacles or a room with walls and passage ways (doors). Mark the start point and the goal point in the workspace. Define the potential field functions for attractive and repulsive fields. Generate feasible paths for different values of the constants in the attractive and repulsive fields. Which is the best path.  
 Submit the full program and results showing points 1-4. Results should show several figures (4-5) that show the work space with obstacles with start and goal point. Final paths from initial point to goal points. One result should show failed cases , with suitable object position or shapes. Explain why it is failing.
-![image](https://github.com/aryanraj4049/robot_motion_planning/assets/87406447/fdd98d40-1bfa-4810-9c92-7b6b5a799e2d)
+![image](https://github.com/aryanraj4049/robot_motion_planning/assets/87406447/7bc6ed44-1cc9-438f-aba7-3b29465d7ee6)
+![image](https://github.com/aryanraj4049/robot_motion_planning/assets/87406447/2c768747-c996-4206-bc82-35a20331359e)
+![image](https://github.com/aryanraj4049/robot_motion_planning/assets/87406447/0141af09-5c1f-4363-9c0f-9e09792abdbe)
+![image](https://github.com/aryanraj4049/robot_motion_planning/assets/87406447/b5caa701-7fbe-45c9-8e51-92f48514e9f3)
+
+
+
+
 
 
