@@ -1,0 +1,11 @@
+Assignment-1 :
+
+1. Write a program to generate the C Space for a 2 DOF (2R) planer robot arm as explained in class.
+
+2. There should be at least 3 obstacles of different shapes, sizes and colour (e.g. square, triangle, circle,..)
+
+3. Plot the cartesian  space (x,y) showing the links, obstacles. Choose suitable lengths of the arms. The links may be straight lines or can occupy space (rectangles).
+
+4. Plot the C-space (theta1 verses theta2 ), showing the free space as white and obstacle space having the respective obstacle colour.
+
+5 Submit the full program and results showing points 3 and 4 .
