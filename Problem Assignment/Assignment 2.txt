@@ -1,0 +1,17 @@
+Assignment-2 : Rapidly Expanding Random Tree.
+Objective of the assignment is to write a program to find a path from the start
+point to the goal point using RRT.
+1. Generate a rectangular workspace with three or more obstacles.
+2. Mark the start point and the goal point in the workspace.
+3. Generate feasible points.
+(b) Generate a set of random points from the start point and
+connect it to a tree forming branches. From the start point the next
+feasible points (one or more) may be made at a random direction with a
+fixed step length. Generate the roadmap in the form of a tree with
+branches. Find a path from the start point to the goal point.
+4. Submit the full program and results showing points 1-3. Results should
+show several figures (4-5) that show the work space with obstacles with
+start and goal point. Road map generated . Final path from initial point to
+goal point.
+5. One result should show failed cases , with suitable object position or
+shapes.
